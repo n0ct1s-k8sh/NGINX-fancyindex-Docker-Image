@@ -5,5 +5,7 @@ Latest NGINX Docker Image based on Alpine, with fancyindex module built and enab
 - After that, the module is enabled in the _nginx.conf_ file.
 - Finally, a new virtual site is enabled as the default site, with its root directory in _/var/www/content_
 
+_The entire image is going to be uploaded soon._
+
 ## About me
 I'm a cloud sysadmin, that tries to dockerize and automate everything that exists. Also, I play the oboe :)
